@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiya! 😄
 
 ![](https://memegenerator.net/img/instances/84972086.jpg)
 
