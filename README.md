@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![meme](https://memegenerator.net/instance/84972086/success-kid-me-finally-understanding-why-they-made-the-different-branches)
+![](https://memegenerator.net/img/instances/84972086.jpg)
 
 <!--
 **WORTI3/WORTI3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
