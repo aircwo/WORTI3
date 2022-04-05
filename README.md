@@ -1,6 +1,5 @@
 ### Hi! 😄
 
-![](https://memegenerator.net/img/instances/84972086.jpg)
 
 ### Stats
 ![](https://github-readme-stats.vercel.app/api?username=WORTI3&count_private=true&show_icons=true&hide=issues&theme=vue)
