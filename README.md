@@ -1,3 +1,1 @@
-<div>
-  <img src="hero.svg" style="width: 100%;" alt="Hey, i'm wortie 🖖">
-</div>
+![Hey, i'm wortie 🖖](hero.svg "Hero")
