@@ -13,7 +13,7 @@
         --c1: #0d1117;
         --c2: #FFFFFF;
         width: 100%;
-        height: 320px;
+        height: 350px;
       }
         
       .container {        
@@ -28,9 +28,9 @@
           calc(-.3*var(--s)) calc(-.3*var(--s))/var(--_g),
           conic-gradient(from 90deg at 20% 20%,var(--c2) 25%,var(--c1) 0) 
           0 0/var(--s) var(--s);
-        animation: cubicMotion 24s infinite;
-        height: calc(100% - 10px);
-        width: calc(100% - 10px);
+        animation: cubicMotion 30s infinite;
+        height: 100%;
+        width: 100%;
         background-size: 200% 200%;
         background-position: 0 0;
         display: flex;

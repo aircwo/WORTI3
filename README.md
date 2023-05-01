@@ -1,1 +1,1 @@
-![Hey, i'm wortie 🖖](hero.svg "Hero")
+![Hey, i'm wortie 🖖](hero.svg "Profile hero")
